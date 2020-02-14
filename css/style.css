@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 7vmin;
+}
+
+h2 {
+  font-size: 3vmin;
+}
+
 img {
   display: block;
   margin: auto;
