@@ -1,2 +1,2 @@
-<!-- Category: HTML/CSS/JS -->
+<!-- Category: FreeCodeCamp;HTML/CSS/JS -->
 
