@@ -26,8 +26,8 @@ Git (optional but recommended)
 
 ### Setting up a Development Environment
 
-1. Download a copy of the source code from: https://github.com/kentpmckinney/fcc-memory-game
-   or clone using the repository link: https://github.com/kentpmckinney/fcc-memory-game.git
+1. Download a copy of the source code from: https://github.com/kentpmckinney/fcc-tribute-page
+   or clone using the repository link: https://github.com/kentpmckinney/fcc-tribute-page.git
 2. Navigate to the folder location of the source files in Finder or in the Terminal
 3. Launch a web browser so that it opens index.html
 
